@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649890098808",
+    "project_id": "loadisyon",
+    "storage_bucket": "loadisyon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649890098808:android:f708908eddfd81b9f9c78d",
+        "android_client_info": {
+          "package_name": "com.loadisyon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649890098808-66kl5if1p5sd84dtq3b7nbgf7j820uah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCQz8ugrwcxQGwkSSVU0ilZHy3PlmyNEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649890098808-66kl5if1p5sd84dtq3b7nbgf7j820uah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
